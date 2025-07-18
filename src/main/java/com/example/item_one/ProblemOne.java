@@ -42,7 +42,7 @@ public class ProblemOne {
     public static void main(String[] args) {
         Temperature t1 = Temperature.fromCelsius(15);
         Temperature t2 = Temperature.fromFahrenheit(212);
-        Temperature t3 = Temperature.fromKelvin(371);
+        Temperature t3 = Temperature.fromKelvin(390);
         System.out.println(t1.getTemperature());
         System.out.println(t2.getTemperature());
         System.out.println(t3.getTemperature());
