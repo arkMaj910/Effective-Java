@@ -1,0 +1,47 @@
+# Maven build output
+/target/
+
+# Logs
+*.log
+
+# Eclipse/IntelliJ IDEA/VS Code IDE settings
+/.idea/
+/*.iml
+*.ipr
+*.iws
+*.class
+/.project
+/.classpath
+/.settings/
+/.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Java temporary files
+*.class
+*.jar
+*.war
+*.ear
+
+# Package distributions
+*.zip
+*.tar.gz
+*.rar
+
+# JUnit reports
+/test-output/
+surefire-reports/
+
+# Ignore generated files
+*.swp
+*.swo
+
+# Optional: ignore local environment configs
+.env
+*.local
